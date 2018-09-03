@@ -1,0 +1,4 @@
+telstra\service\ProductService.class
+telstra\tester\TestJsonPost.class
+telstra\controller\ProductController.class
+telstra\bean\Product.class
